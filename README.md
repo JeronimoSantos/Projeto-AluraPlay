@@ -16,4 +16,6 @@
 - CSS
 
 <h2> Certificado </h2>
-- <img src="" />
+<span aling="center">
+  <img src="https://github.com/user-attachments/assets/c7c89f2c-2aff-4deb-88e1-5cd52c23e975" width="50%"/>
+</span>
