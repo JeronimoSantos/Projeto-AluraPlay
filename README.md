@@ -31,6 +31,16 @@
   </li>
 </ul>
 
+<h2> Instrutor </h2>
+<ul>
+  <li>
+    Luan Alves
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/luanalvesdev/"> Linkedin </a>
+  </li>
+</ul>
+
 <h2> 🏆 Certificado </h2>
 <br/>
   <img src="https://github.com/user-attachments/assets/c7c89f2c-2aff-4deb-88e1-5cd52c23e975" width="50%" />
