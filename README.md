@@ -37,7 +37,7 @@
     Luan Alves
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/luanalvesdev/"> Linkedin </a>
+    <a href="https://www.linkedin.com/in/luanalvesdev/" title="Linkedin do Instrutor"> Linkedin </a>
   </li>
 </ul>
 
